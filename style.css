@@ -10,15 +10,23 @@ body{
     height: 100vh;
     width: 100%;
 }
+.kitten{
+    position: relative;
+    max-width: 200px;
+
+
+}
 #container{
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    font-size: 2rem;
+    font-size: 1.75rem;
     font-weight: bold;
 
 }
 h1{
     color:#1e1982;
+    
+
 }
 button{
     font-size: 1.5rem;
@@ -38,7 +46,7 @@ button:active{
     background-color: #0c0c6e;
 }
 input{
-    font-size: 2rem;
+    font-size: 1.75rem;
     width:150px;
     text-align: center;
     font-weight: bold;
@@ -49,6 +57,6 @@ input{
 }
 #diceImages img{
    padding:5px;
-  width:100px;
+  width:80px;
 
 }
